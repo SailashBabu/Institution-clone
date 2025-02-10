@@ -1,0 +1,37 @@
+*{
+    font-family: poppins;
+    margin: 0;
+}
+
+.topbar{
+    margin-left:70px ;
+    margin-bottom: -80px;
+    margin-top: 50px;
+    height : 50px;
+}
+.sidebar{
+    width :150px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    margin-top: 100px;
+    border: 2px solid  #E2F3FB;
+}
+.nav-items button{
+    border: none;
+    width:150px;
+    background: none;
+    padding: 10px;
+    justify-items: center;
+    height: 45px;
+}
+.nav-items {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+.nav-items button:hover{
+    border : 2px solid rgb(74, 74, 201);
+    border-radius: 4px;
+    background: #E2F3FB;
+}
