@@ -1,0 +1,8 @@
+.assignment-nav{
+    display: flex;
+    gap:20px;
+}
+.assignment-nav > button{
+    background: none;
+    border: 0cap;
+}
