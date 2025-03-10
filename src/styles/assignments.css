@@ -4,5 +4,15 @@
 }
 .assignment-nav > button{
     background: none;
-    border: 0cap;
+    border: none;
+
 }
+.selection-bar{
+   float:right;
+}
+.table-header{
+    border-radius: 5px;
+    background-color: aqua;
+    
+}
+
